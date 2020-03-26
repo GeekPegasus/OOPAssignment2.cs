@@ -1,0 +1,8 @@
+Pros:
+	Very simple to read.
+	Code allows user to input any text file they want.
+	The diff command is essential, to brief standard.
+Cons:
+	There are no comments.
+	Code crashes when no command is entered.
+	
